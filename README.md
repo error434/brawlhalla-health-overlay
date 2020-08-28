@@ -21,7 +21,7 @@ This version now uses less than 100MB at all times, less than 1% CPU on most mac
 > ***this program may not work if Brawlhalla is in windowed mode.***
 > ***make sure to put it in full screen mode***
 
-* by error434
-* copyright(©) 2020
+### by error434
+### copyright(©) 2020
 
 **_ENJOY THE TOOL AS WELL AS THE GAME_**
