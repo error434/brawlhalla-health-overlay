@@ -24,4 +24,4 @@ This version now uses less than 100MB at all times, less than 1% CPU on most mac
 * by error434
 * copyright(©) 2020
 
-***_ENJOY THE TOOL AS WELL AS THE GAME**_
+***_ENJOY THE TOOL AS WELL AS THE GAME_**
